@@ -1,0 +1,5 @@
+{
+  "name": "Precision Scientific Calculator",
+  "description": "A high-fidelity, production-grade scientific calculator with advanced expression parsing, unit toggling, and a premium minimal UI.",
+  "requestFramePermissions": []
+}
